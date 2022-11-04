@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_query=self.webpackChunkreact_query||[]).push([[829],{829:function(e,n,r){r.r(n),r.d(n,{default:function(){return t}});r(791);var u=r(184),c=function(){return(0,u.jsx)("div",{children:"Change Profile"})},t=function(){return(0,u.jsxs)("div",{children:[(0,u.jsx)("h1",{children:"THIS IS A PROFILE PAGE"}),(0,u.jsx)(c,{})]})}}}]);
+//# sourceMappingURL=829.e022dc57.chunk.js.map
